@@ -1,6 +1,8 @@
 # YMGK-Modelling
 Yazılım Mühendisliği Gündüz A grubu Modelleme çalışması
-Fizibilite Raporu: Bifurkasyon Diyagramı Analizi
+
+
+## Fizibilite Raporu: Bifurkasyon Diyagramı Analizi
 
 Giriş
 Bu fizibilite raporu, dinamik sistemlerde bifurkasyon diyagramı kullanarak sistemdeki kaotik davranışları ve dönüşümleri incelemeyi amaçlamaktadır. Bifurkasyon diyagramları, bir sistemdeki değişkenlerin belirli parametrelerle nasıl değiştiğini görsel olarak temsil eden grafiklerdir. Bu analiz yöntemi, sistemin karmaşık davranışlarını anlamak ve belirli koşullar altında nasıl değiştiğini belirlemek için kullanılır.
